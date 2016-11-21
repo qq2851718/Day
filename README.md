@@ -1,2 +1,3 @@
 # Day
-![image](https://github.com/ButBueatiful/dotvim/raw/master/screenshots/vim-screenshot.jpg)
+第一次，见面.
+====  
