@@ -1,0 +1,38 @@
+/*!
+ * WeiShangHui CSS Document 
+ */
+body {
+	font-family: Microsoft Yahei, Verdana, Geneva, sans-serif;
+}
+a:link, a:visited {
+	color: #333;
+}
+a:hover {
+	color: #71ad00;
+	text-decoration: none;
+}
+.form-signin {
+	max-width: 330px;
+	padding: 15px;
+	margin: 0 auto;
+}
+.margin-top-15 {
+	margin-top: 15px;
+}
+.margin-top-20 {
+	margin-top: 20px;
+}
+.padding-top-60 {
+	padding-top: 60px;
+}
+#footer {
+	background-color: #f2f2f2;
+	padding-top: 10px;
+	margin-top: 30px;
+}
+.category>tbody>tr>td {
+	border-top: 0;
+}
+.category .son>td:first-child {
+	padding-left: 20px;
+}
